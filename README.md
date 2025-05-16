@@ -61,7 +61,7 @@ Aplicación móvil desarrollada en **React Native** y **TypeScript** para la ges
 
 **Clona el repositorio:**
 
-   git clone https://github.com/tuusuario/project-task.git
+   [git clone https://github.com/tuusuario/project-task.git](https://github.com/AlexanderROrtiz/Project-Task.git)
    cd project-task/Project-Task
 
 **Instala dependencias::**
@@ -74,5 +74,4 @@ Aplicación móvil desarrollada en **React Native** y **TypeScript** para la ges
 **Ejecución de pruebas:**
 - npm test
 
-**Contacto**
 Para dudas o sugerencias, no dudes en escribirme.
